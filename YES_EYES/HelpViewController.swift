@@ -4,13 +4,12 @@
 //
 //  Created by 반예원 on 2021/07/27.
 //
-
 import UIKit
 class HelpCell: UITableViewCell{
     
     @IBOutlet weak var topLabel: UILabel!
     
-    @IBOutlet weak var centerImageView: UIImageView! 
+    @IBOutlet weak var centerImageView: UIImageView!
       
     @IBOutlet weak var bottomLabel: UILabel!
 }
